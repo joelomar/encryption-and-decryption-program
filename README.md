@@ -1,2 +1,2 @@
 # encryption-and-decryption-program
-Cryptography symmetric basic program using the ceaser cipher in c++  
+Cryptography symmetric basic Cryptosystem program using the ceaser cipher in c++  
